@@ -1,0 +1,1 @@
+{"offers":[{"market_sku":10846332,"offer_id":"offer1","price":499},{"market_sku":682644,"offer_id":"offer2","price":1490},{"market_sku":832784,"offer_id":"offer3","price":14000}]}
